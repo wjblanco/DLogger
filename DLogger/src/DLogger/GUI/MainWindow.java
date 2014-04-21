@@ -1,3 +1,5 @@
+/*Created by WBlanco*/
+
 package DLogger.GUI;
 
 import java.awt.EventQueue;
